@@ -3,7 +3,7 @@
    |   ENTER A LINK   |
 =>  moodle.smuc.edu.et/students
 
-**[NOT] moodle.smuc.edu.et/students/img**
+-**[NOT] moodle.smuc.edu.et/students/img**
 -[NOT] moodle.smuc.edu.et/students/fxc
 -[NOT] moodle.smuc.edu.et/students/students/photo
 -[NOT] moodle.smuc.edu.et/students/admin
